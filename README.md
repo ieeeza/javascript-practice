@@ -1,2 +1,2 @@
 # javascript-practice
-java script conceitos
+java script syntax
